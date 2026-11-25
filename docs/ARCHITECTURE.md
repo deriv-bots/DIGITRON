@@ -1,0 +1,1 @@
+# Architecture\n\nReact/Vite dashboard -> FastAPI WebSocket -> Deriv public tick stream. Digit extraction uses Deriv tick pip_size. Research-only first release; trading execution is out of scope. Never expose account tokens in the browser or repository.\n

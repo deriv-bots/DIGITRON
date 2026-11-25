@@ -1,0 +1,1 @@
+# Risk management\n\nThis release does not execute trades. Any future execution feature must require explicit authorization, demo testing, hard stake/session-loss limits, concurrency limits, cooldowns, a kill switch and audit logs. Martingale must be optional and bounded; it cannot guarantee recovery.\n
